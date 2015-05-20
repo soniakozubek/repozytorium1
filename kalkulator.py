@@ -1,5 +1,10 @@
 def dodawanie(a,b):
-	return a+b
+	suma = a+b
+	return suma
+	
+def odejmowanie(a,b):
+	roznica = a-b
+	return roznica
 	
 def mnozenie(a,b):
 	return a*b
