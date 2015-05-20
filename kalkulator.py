@@ -1,6 +1,9 @@
 def dodawanie(a,b):
 	return a+b
 	
+def mnozenie(a,b):
+	return a*b
+	
 def get_info():
 	print("To je prosty kalkulatoroslaw")
 	
